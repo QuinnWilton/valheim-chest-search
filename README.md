@@ -1,7 +1,8 @@
 # ChestSearch
-![](icon.png)
+![](https://github.com/QuinnWilton/valheim-chest-search/blob/master/icon.png)
+![](https://i.imgur.com/z6TJNcb.mp4)
 
-A HarmonyX Mod that enables you to search for items in nearby containers.
+A Valheim Mod that enables you to search for items in nearby containers.
 
 ## Usage
 
